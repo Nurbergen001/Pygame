@@ -22,7 +22,8 @@ while run:
         if e.type == QUIT:
             run = False
         elif e == K_LEFT:
-            z += 10           
+            z += 10      
+print("Hello")     
 
 
 
