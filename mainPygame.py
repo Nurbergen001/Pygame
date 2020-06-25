@@ -23,7 +23,8 @@ while run:
             run = False
         elif e == K_LEFT:
             z += 10      
-print("Hello")     
+print("Hello")   
+print("hghg")  
 
 
 
